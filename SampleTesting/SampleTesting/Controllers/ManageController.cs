@@ -18,6 +18,7 @@ namespace SampleTesting.Controllers
 
         public ManageController()
         {
+            //Empty Constructor
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
